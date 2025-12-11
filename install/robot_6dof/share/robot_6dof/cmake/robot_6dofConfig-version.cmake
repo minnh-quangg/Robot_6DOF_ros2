@@ -1,0 +1,1 @@
+/home/hoang/ros2_ws1/build/robot_6dof/ament_cmake_core/robot_6dofConfig-version.cmake

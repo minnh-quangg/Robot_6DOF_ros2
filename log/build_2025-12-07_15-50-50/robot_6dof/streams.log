@@ -1,0 +1,68 @@
+[0.013s] Invoking command in '/home/hoang/ros2_ws1/build/robot_6dof': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/hoang/ros2_ws1/src/robot_6dof -DCMAKE_INSTALL_PREFIX=/home/hoang/ros2_ws1/install/robot_6dof
+[0.094s] -- The C compiler identification is GNU 13.3.0
+[0.170s] -- The CXX compiler identification is GNU 13.3.0
+[0.209s] -- Detecting C compiler ABI info
+[0.356s] -- Detecting C compiler ABI info - done
+[0.381s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.381s] -- Detecting C compile features
+[0.382s] -- Detecting C compile features - done
+[0.407s] -- Detecting CXX compiler ABI info
+[0.561s] -- Detecting CXX compiler ABI info - done
+[0.570s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.571s] -- Detecting CXX compile features
+[0.571s] -- Detecting CXX compile features - done
+[0.576s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.814s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.998s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.142s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.142s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.143s] -- Added test 'lint_cmake' to check CMake code style
+[1.144s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.147s] -- Added test 'xmllint' to check XML markup files
+[1.149s] -- Configuring done (1.1s)
+[1.152s] -- Generating done (0.0s)
+[1.154s] -- Build files have been written to: /home/hoang/ros2_ws1/build/robot_6dof
+[1.160s] Invoked command in '/home/hoang/ros2_ws1/build/robot_6dof' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/hoang/ros2_ws1/src/robot_6dof -DCMAKE_INSTALL_PREFIX=/home/hoang/ros2_ws1/install/robot_6dof
+[1.163s] Invoking command in '/home/hoang/ros2_ws1/build/robot_6dof': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/hoang/ros2_ws1/build/robot_6dof -- -j12 -l12
+[1.232s] Invoked command in '/home/hoang/ros2_ws1/build/robot_6dof' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/hoang/ros2_ws1/build/robot_6dof -- -j12 -l12
+[1.257s] Invoking command in '/home/hoang/ros2_ws1/build/robot_6dof': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/hoang/ros2_ws1/build/robot_6dof
+[1.276s] -- Install configuration: ""
+[1.276s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/urdf
+[1.277s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/urdf/robot_6dof.urdf.xacro
+[1.277s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/urdf/robot_6dof.csv
+[1.277s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/urdf/robot_6dof.urdf
+[1.278s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/urdf/robot_6dof.xacro
+[1.278s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes
+[1.278s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_5.STL
+[1.281s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/base_link.STL
+[1.281s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_6.STL
+[1.282s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_4.STL
+[1.283s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_1.STL
+[1.288s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_3.STL
+[1.290s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_2.STL
+[1.295s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/textures
+[1.295s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/config
+[1.295s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/config/joint_names_robot_6dof.yaml
+[1.295s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/launch
+[1.296s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/launch/display.launch.py
+[1.296s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/launch/display.launch
+[1.296s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/launch/gazebo.launch
+[1.296s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/launch/gazebo_display.launch.py
+[1.297s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/rviz
+[1.297s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/rviz/urdf.rviz
+[1.297s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/ament_index/resource_index/package_run_dependencies/robot_6dof
+[1.297s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/ament_index/resource_index/parent_prefix_path/robot_6dof
+[1.298s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/environment/ament_prefix_path.sh
+[1.298s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/environment/ament_prefix_path.dsv
+[1.298s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/environment/path.sh
+[1.298s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/environment/path.dsv
+[1.298s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/local_setup.bash
+[1.299s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/local_setup.sh
+[1.299s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/local_setup.zsh
+[1.299s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/local_setup.dsv
+[1.299s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/package.dsv
+[1.299s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/ament_index/resource_index/packages/robot_6dof
+[1.300s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/cmake/robot_6dofConfig.cmake
+[1.300s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/cmake/robot_6dofConfig-version.cmake
+[1.300s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/package.xml
+[1.302s] Invoked command in '/home/hoang/ros2_ws1/build/robot_6dof' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/hoang/ros2_ws1/build/robot_6dof

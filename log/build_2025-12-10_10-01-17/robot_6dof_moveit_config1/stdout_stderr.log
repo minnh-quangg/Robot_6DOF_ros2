@@ -1,0 +1,60 @@
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/hoang/ros2_ws1/build/robot_6dof_moveit_config1
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/ament_index/resource_index/package_run_dependencies/robot_6dof_moveit_config1
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/ament_index/resource_index/parent_prefix_path/robot_6dof_moveit_config1
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/environment/ament_prefix_path.sh
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/environment/ament_prefix_path.dsv
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/environment/path.sh
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/environment/path.dsv
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/local_setup.bash
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/local_setup.sh
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/local_setup.zsh
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/local_setup.dsv
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/package.dsv
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/ament_index/resource_index/packages/robot_6dof_moveit_config1
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/cmake/robot_6dof_moveit_config1Config.cmake
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/cmake/robot_6dof_moveit_config1Config-version.cmake
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/package.xml
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/demo.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/demo_gazebo.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/move_group.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/moveit_rviz.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/rsp.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/setup_assistant.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/spawn_controllers.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/static_virtual_joint_tfs.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/warehouse_db.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/urdf/robot_6dof.urdf.xacro
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/meshes/Link_1.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/meshes/Link_2.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/meshes/Link_3.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/meshes/Link_4.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/meshes/Link_5.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/meshes/Link_6.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/meshes/base_link.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/initial_positions.yaml
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/joint_limits.yaml
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/kinematics.yaml
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/moveit.rviz
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/moveit_controllers.yaml
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/pilz_cartesian_limits.yaml
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/robot_6dof.ros2_control.xacro
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/robot_6dof.srdf
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/robot_6dof.urdf.xacro
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/ros2_controllers.yaml
+-- Up-to-date symlink: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/initial_positions.yaml
+-- Up-to-date symlink: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/joint_limits.yaml
+-- Up-to-date symlink: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/kinematics.yaml
+-- Up-to-date symlink: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/moveit.rviz
+-- Up-to-date symlink: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/moveit_controllers.yaml
+-- Up-to-date symlink: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/pilz_cartesian_limits.yaml
+-- Up-to-date symlink: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/robot_6dof.ros2_control.xacro
+-- Up-to-date symlink: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/robot_6dof.srdf
+-- Up-to-date symlink: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/robot_6dof.urdf.xacro
+-- Up-to-date symlink: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/config/ros2_controllers.yaml
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/.setup_assistant

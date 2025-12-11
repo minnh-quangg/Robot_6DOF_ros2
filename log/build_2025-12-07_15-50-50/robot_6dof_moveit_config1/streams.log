@@ -1,0 +1,57 @@
+[0.025s] Invoking command in '/home/hoang/ros2_ws1/build/robot_6dof_moveit_config1': CMAKE_PREFIX_PATH=/home/hoang/ros2_ws1/install/robot_6dof:/home/hoang/ros2_ws1/install/robot_6dof_moveit_config2:/home/hoang/ros2_ws/install/robot_6dof:/opt/ros/jazzy/opt/gz_launch_vendor:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/hoang/ros2_ws1/src/robot_6dof_moveit_config1 -DCMAKE_INSTALL_PREFIX=/home/hoang/ros2_ws1/install/robot_6dof_moveit_config1
+[0.107s] -- The C compiler identification is GNU 13.3.0
+[0.182s] -- The CXX compiler identification is GNU 13.3.0
+[0.203s] -- Detecting C compiler ABI info
+[0.312s] -- Detecting C compiler ABI info - done
+[0.321s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.321s] -- Detecting C compile features
+[0.322s] -- Detecting C compile features - done
+[0.333s] -- Detecting CXX compiler ABI info
+[0.463s] -- Detecting CXX compiler ABI info - done
+[0.488s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.488s] -- Detecting CXX compile features
+[0.489s] -- Detecting CXX compile features - done
+[0.501s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.683s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.942s] -- Configuring done (0.9s)
+[0.945s] -- Generating done (0.0s)
+[0.947s] -- Build files have been written to: /home/hoang/ros2_ws1/build/robot_6dof_moveit_config1
+[0.952s] Invoked command in '/home/hoang/ros2_ws1/build/robot_6dof_moveit_config1' returned '0': CMAKE_PREFIX_PATH=/home/hoang/ros2_ws1/install/robot_6dof:/home/hoang/ros2_ws1/install/robot_6dof_moveit_config2:/home/hoang/ros2_ws/install/robot_6dof:/opt/ros/jazzy/opt/gz_launch_vendor:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/hoang/ros2_ws1/src/robot_6dof_moveit_config1 -DCMAKE_INSTALL_PREFIX=/home/hoang/ros2_ws1/install/robot_6dof_moveit_config1
+[0.953s] Invoking command in '/home/hoang/ros2_ws1/build/robot_6dof_moveit_config1': CMAKE_PREFIX_PATH=/home/hoang/ros2_ws1/install/robot_6dof:/home/hoang/ros2_ws1/install/robot_6dof_moveit_config2:/home/hoang/ros2_ws/install/robot_6dof:/opt/ros/jazzy/opt/gz_launch_vendor:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/hoang/ros2_ws1/build/robot_6dof_moveit_config1 -- -j12 -l12
+[1.020s] Invoked command in '/home/hoang/ros2_ws1/build/robot_6dof_moveit_config1' returned '0': CMAKE_PREFIX_PATH=/home/hoang/ros2_ws1/install/robot_6dof:/home/hoang/ros2_ws1/install/robot_6dof_moveit_config2:/home/hoang/ros2_ws/install/robot_6dof:/opt/ros/jazzy/opt/gz_launch_vendor:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/hoang/ros2_ws1/build/robot_6dof_moveit_config1 -- -j12 -l12
+[1.022s] Invoking command in '/home/hoang/ros2_ws1/build/robot_6dof_moveit_config1': CMAKE_PREFIX_PATH=/home/hoang/ros2_ws1/install/robot_6dof:/home/hoang/ros2_ws1/install/robot_6dof_moveit_config2:/home/hoang/ros2_ws/install/robot_6dof:/opt/ros/jazzy/opt/gz_launch_vendor:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/hoang/ros2_ws1/build/robot_6dof_moveit_config1
+[1.041s] -- Install configuration: ""
+[1.041s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/ament_index/resource_index/package_run_dependencies/robot_6dof_moveit_config1
+[1.042s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/ament_index/resource_index/parent_prefix_path/robot_6dof_moveit_config1
+[1.042s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/environment/ament_prefix_path.sh
+[1.042s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/environment/ament_prefix_path.dsv
+[1.042s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/environment/path.sh
+[1.042s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/environment/path.dsv
+[1.042s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/local_setup.bash
+[1.043s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/local_setup.sh
+[1.043s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/local_setup.zsh
+[1.043s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/local_setup.dsv
+[1.043s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/package.dsv
+[1.043s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/ament_index/resource_index/packages/robot_6dof_moveit_config1
+[1.044s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/cmake/robot_6dof_moveit_config1Config.cmake
+[1.044s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/cmake/robot_6dof_moveit_config1Config-version.cmake
+[1.044s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/package.xml
+[1.044s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch
+[1.044s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/warehouse_db.launch.py
+[1.044s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/demo.launch.py
+[1.045s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/setup_assistant.launch.py
+[1.045s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/static_virtual_joint_tfs.launch.py
+[1.045s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/moveit_rviz.launch.py
+[1.045s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/demo_gazebo.launch.py
+[1.045s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/move_group.launch.py
+[1.045s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/spawn_controllers.launch.py
+[1.045s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/launch/rsp.launch.py
+[1.045s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/urdf
+[1.045s] -- Installing: /home/hoang/ros2_ws1/install/robot_6dof_moveit_config1/share/robot_6dof_moveit_config1/urdf/robot_6dof.urdf.xacro
+[1.046s] [31mCMake Error at cmake_install.cmake:105 (file):
+[1.046s]   file INSTALL cannot find
+[1.046s]   "/home/hoang/ros2_ws1/src/robot_6dof_moveit_config1/meshes": No such file
+[1.046s]   or directory.
+[1.046s] 
+[1.046s] [0m
+[1.057s] Invoked command in '/home/hoang/ros2_ws1/build/robot_6dof_moveit_config1' returned '1': CMAKE_PREFIX_PATH=/home/hoang/ros2_ws1/install/robot_6dof:/home/hoang/ros2_ws1/install/robot_6dof_moveit_config2:/home/hoang/ros2_ws/install/robot_6dof:/opt/ros/jazzy/opt/gz_launch_vendor:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/hoang/ros2_ws1/build/robot_6dof_moveit_config1

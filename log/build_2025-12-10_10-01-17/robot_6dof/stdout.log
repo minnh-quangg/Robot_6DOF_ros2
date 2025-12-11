@@ -1,0 +1,45 @@
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Configured 'flake8' exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/hoang/ros2_ws1/build/robot_6dof
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/urdf/robot_6dof.csv
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/urdf/robot_6dof.urdf
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/urdf/robot_6dof.urdf.xacro
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/urdf/robot_6dof.xacro
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_1.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_2.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_3.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_4.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_5.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/Link_6.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/meshes/base_link.STL
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/config/joint_names_robot_6dof.yaml
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/launch/display.launch
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/launch/display.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/launch/gazebo.launch
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/launch/gazebo_display.launch.py
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/rviz/urdf.rviz
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/ament_index/resource_index/package_run_dependencies/robot_6dof
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/ament_index/resource_index/parent_prefix_path/robot_6dof
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/environment/ament_prefix_path.sh
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/environment/ament_prefix_path.dsv
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/environment/path.sh
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/environment/path.dsv
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/local_setup.bash
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/local_setup.sh
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/local_setup.zsh
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/local_setup.dsv
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/package.dsv
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/ament_index/resource_index/packages/robot_6dof
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/cmake/robot_6dofConfig.cmake
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/cmake/robot_6dofConfig-version.cmake
+-- Symlinking: /home/hoang/ros2_ws1/install/robot_6dof/share/robot_6dof/package.xml
