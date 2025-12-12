@@ -1,1 +1,23 @@
-/home/hoang/ros2_ws1/src/robot_6dof_moveit_config1/.setup_assistant
+moveit_setup_assistant_config:
+  urdf:
+    package: robot_6dof
+    relative_path: urdf/robot_6dof.urdf.xacro
+  srdf:
+    relative_path: config/robot_6dof.srdf
+  package_settings:
+    author_name: todo
+    author_email: todo@gmail.com
+    generated_timestamp: 1765084258
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+  modified_urdf:
+    xacros:
+      - control_xacro
+  control_xacro:
+    command:
+      - position
+    state:
+      - position

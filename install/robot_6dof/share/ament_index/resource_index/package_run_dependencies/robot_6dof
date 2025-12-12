@@ -1,1 +1,1 @@
-/home/hoang/ros2_ws1/build/robot_6dof/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/robot_6dof
+rviz2;urdf;xacro;robot_state_publisher;joint_state_publisher_gui;ros2launch;ros_gz_sim;ros_gz_bridge;gz_ros2_control;ament_lint_auto;ament_lint_common

@@ -1,1 +1,0 @@
-/home/hoang/ros2_ws1/src/robot_6dof_moveit_config1/launch/ros.lauch.py

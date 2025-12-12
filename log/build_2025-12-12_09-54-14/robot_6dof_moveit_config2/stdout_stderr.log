@@ -1,0 +1,54 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (0.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/hoang/ros2_ws/build/robot_6dof_moveit_config2
+-- Install configuration: ""
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/ament_index/resource_index/package_run_dependencies/robot_6dof_moveit_config2
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/ament_index/resource_index/parent_prefix_path/robot_6dof_moveit_config2
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/environment/ament_prefix_path.sh
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/environment/ament_prefix_path.dsv
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/environment/path.sh
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/environment/path.dsv
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/local_setup.bash
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/local_setup.sh
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/local_setup.zsh
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/local_setup.dsv
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/package.dsv
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/ament_index/resource_index/packages/robot_6dof_moveit_config2
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/cmake/robot_6dof_moveit_config2Config.cmake
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/cmake/robot_6dof_moveit_config2Config-version.cmake
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/package.xml
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/launch
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/launch/warehouse_db.launch.py
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/launch/demo.launch.py
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/launch/setup_assistant.launch.py
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/launch/static_virtual_joint_tfs.launch.py
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/launch/moveit_rviz.launch.py
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/launch/move_group.launch.py
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/launch/spawn_controllers.launch.py
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/launch/rsp.launch.py
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config/kinematics.yaml
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config/robot_6dof.urdf.xacro
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config/ros2_controllers.yaml
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config/pilz_cartesian_limits.yaml
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config/joint_limits.yaml
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config/moveit.rviz
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config/robot_6dof.srdf
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config/initial_positions.yaml
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config/moveit_controllers.yaml
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/config/robot_6dof.ros2_control.xacro
+-- Installing: /home/hoang/ros2_ws/install/robot_6dof_moveit_config2/share/robot_6dof_moveit_config2/.setup_assistant

@@ -1,1 +1,1 @@
-/home/hoang/ros2_ws1/src/robot_6dof/config/joint_names_robot_6dof.yaml
+controller_joint_names: ['', 'Joint_1', 'Joint_2', 'Joint_3', 'Joint_4', 'Joint_5', 'Joint_6', ]

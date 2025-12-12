@@ -1,1 +1,9 @@
-/home/hoang/ros2_ws1/src/robot_6dof_moveit_config1/config/initial_positions.yaml
+# Default initial positions for robot_6dof's ros2_control fake system
+
+initial_positions:
+  Joint_1: 0
+  Joint_2: 0
+  Joint_3: 0
+  Joint_4: 0
+  Joint_5: 0
+  Joint_6: 0

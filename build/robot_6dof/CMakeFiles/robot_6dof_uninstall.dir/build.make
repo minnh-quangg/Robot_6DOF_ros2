@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hoang/ros2_ws1/src/robot_6dof
+CMAKE_SOURCE_DIR = /home/hoang/ros2_ws/src/robot_6dof
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hoang/ros2_ws1/build/robot_6dof
+CMAKE_BINARY_DIR = /home/hoang/ros2_ws/build/robot_6dof
 
 # Utility rule file for robot_6dof_uninstall.
 
@@ -67,7 +67,7 @@ include CMakeFiles/robot_6dof_uninstall.dir/compiler_depend.make
 include CMakeFiles/robot_6dof_uninstall.dir/progress.make
 
 CMakeFiles/robot_6dof_uninstall:
-	/usr/bin/cmake -P /home/hoang/ros2_ws1/build/robot_6dof/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
+	/usr/bin/cmake -P /home/hoang/ros2_ws/build/robot_6dof/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
 
 robot_6dof_uninstall: CMakeFiles/robot_6dof_uninstall
 robot_6dof_uninstall: CMakeFiles/robot_6dof_uninstall.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/robot_6dof_uninstall.dir/clean:
 .PHONY : CMakeFiles/robot_6dof_uninstall.dir/clean
 
 CMakeFiles/robot_6dof_uninstall.dir/depend:
-	cd /home/hoang/ros2_ws1/build/robot_6dof && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hoang/ros2_ws1/src/robot_6dof /home/hoang/ros2_ws1/src/robot_6dof /home/hoang/ros2_ws1/build/robot_6dof /home/hoang/ros2_ws1/build/robot_6dof /home/hoang/ros2_ws1/build/robot_6dof/CMakeFiles/robot_6dof_uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/hoang/ros2_ws/build/robot_6dof && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hoang/ros2_ws/src/robot_6dof /home/hoang/ros2_ws/src/robot_6dof /home/hoang/ros2_ws/build/robot_6dof /home/hoang/ros2_ws/build/robot_6dof /home/hoang/ros2_ws/build/robot_6dof/CMakeFiles/robot_6dof_uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/robot_6dof_uninstall.dir/depend
 
