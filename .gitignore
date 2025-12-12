@@ -1,1 +1,10 @@
-“*.log”
+# Bỏ qua các thư mục sinh ra khi build ROS 2
+build/
+install/
+log/
+
+# Bỏ qua file log lẻ tẻ (nếu có)
+*.log
+
+# Bỏ qua file cấu hình IDE (nếu dùng VS Code)
+.vscode/
